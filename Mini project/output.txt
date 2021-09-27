@@ -1,0 +1,100 @@
+
+
+     ------------------------------------------------------------     
+
+                      ROCK PAPER SCISSOR GAME..                       
+
+     ------------------------------------------------------------     
+
+                     GAME Versus YOU and COMPUTER                     
+                    ------------------------------                    
+
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     
+
+          **************************************************          
+
+                             INSTRUCTIONS                             
+
+                           Enter 1 for Rock                           
+                          Enter 2 for paper                           
+                         Enter 3 for scissor                          
+                   For WIN - 2 score added to you.                    
+                For LOSE - 2 score added to computer.                 
+             For DRAW 1 score added to you and computer.              
+
+          **************************************************          
+
+
+    Enter number of times to play :     5
+
+    Enter Rock , Paper or Scissor :     2
+
+           You entered Paper            
+
+          Computer chose Rock           
+
+              YOU WON :-)               
+
+            YOUR SCORE IS 2             
+
+          COMPUTER SCORE IS 0           
+
+
+
+
+    Enter Rock , Paper or Scissor :     3
+
+          You entered Scissor           
+
+          Computer chose Rock           
+
+            COMPUTER WON :-(            
+
+            YOUR SCORE IS 2             
+
+          COMPUTER SCORE IS 2           
+
+
+
+
+    Enter Rock , Paper or Scissor :     1
+
+            You entered Rock            
+
+          Computer chose Rock           
+
+              MATCH DRAWN               
+
+            YOUR SCORE IS 3             
+
+          COMPUTER SCORE IS 3           
+
+
+
+
+    Enter Rock , Paper or Scissor :     4
+
+        You entered wrong option        
+
+         Enter correct option..         
+
+
+    Enter Rock , Paper or Scissor :     3
+
+          You entered Scissor           
+
+          Computer chose Rock           
+
+            COMPUTER WON :-(            
+
+            YOUR SCORE IS 3             
+
+          COMPUTER SCORE IS 5           
+
+
+
+     ------------------------------------------------------------     
+
+                      COMPUTER WON THE MATCH :(                       
+
+     ------------------------------------------------------------     
